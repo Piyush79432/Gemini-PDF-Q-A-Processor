@@ -475,18 +475,7 @@ Have an idea? Open an issue with the `enhancement` label!
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
+This project is free to use 
 
 ## 🙏 Acknowledgments
 
@@ -571,7 +560,7 @@ in the Software without restriction...
 
 ### ⭐ If you find this project useful, please consider giving it a star!
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Piyush**
 
 [⬆ Back to Top](#-gemini-pdf-qa-processor)
 
